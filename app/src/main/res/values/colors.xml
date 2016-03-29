@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="majo_300">#7986CB</color>
+    <color name="majo_500">#3F51B5</color>
+    <color name="majo_700">#303F9F</color>
+    <color name="majo_acent200">#FF4081</color>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Majo</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="title_activity_media">Media</string>
+    <string name="image_search">Buscar Imagen</string>
+    <string name="placeholderImage">Buscar Imagen</string>
+    <string name="user">Ver Usuario</string>
+    <string name="newmeme">Nuevo Meme</string>
+    <string name="title_activity_find_image">FindImage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string-array name="tabs">
+        <item>Find web</item>
+        <item>Take Picture</item>
+        <item>Find Gallery</item>
+
+    </string-array>
+</resources>

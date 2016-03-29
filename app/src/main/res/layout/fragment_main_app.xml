@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/app_toolbar" />
+
+
+    <android.support.design.widget.FloatingActionButton
+        app:fabSize="normal"
+        app:elevation="6dp"
+        app:pressedTranslationZ="12dp"
+       android:layout_gravity="end|bottom"
+        android:id="@+id/newfab"
+        android:src="@drawable/ic_arrow_left"
+
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_margin="16dp"
+
+        />
+
+
+</android.support.design.widget.CoordinatorLayout>
